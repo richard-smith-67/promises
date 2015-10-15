@@ -1,0 +1,23 @@
+{
+  "name": "promises-demo",
+  "version": "1.0.0",
+  "description": "Using JS and Angular promises",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/richard-smith-67/promises.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/richard-smith-67/promises/issues"
+  },
+  "homepage": "https://github.com/richard-smith-67/promises#readme",
+  "dependencies": {
+    "body-parser": "^1.14.1",
+    "express": "^4.13.3"
+  }
+}
